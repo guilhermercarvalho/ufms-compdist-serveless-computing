@@ -1,4 +1,4 @@
-# Tutorial de Casos de Uso de Computação Distribuída - Serveless Computing
+# Tutorial de Casos de Uso de Computação Distribuída - Serverless Computing
 
 Computação Distribuída 2020/2 - FACOM - UFMS.
 
