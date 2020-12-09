@@ -6,6 +6,6 @@ Um tutorial prático realizado sob a orientação do Prof.º Dr. Ronaldo Alves F
 
 ## Descrição
 
-Desenvolvimento de uma apresentação que cubra conceitos básicos sobre o ambiente, sua configuração e detalhes sobre o caso de uso. Mais especificamente, o tutorial irá cobrir **serveless computing**.
+Desenvolvimento de uma apresentação que cubra conceitos básicos sobre o ambiente, sua configuração e detalhes sobre o caso de uso. Mais especificamente, o tutorial irá cobrir **Serverless computing**.
 
-Abordamos os conceitos de **serveless**, **FaaS** e **Kubernetes**.
+Abordamos os conceitos de **Serverless**, **FaaS** e **Kubernetes**.
